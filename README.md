@@ -1,17 +1,15 @@
-<h1 align="center">👾I'm Hemanth Karthikeya👾</h1>
-<!-- <h3 align="center">A passionate developer interested in all things computers</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=800&lines=A+Passionate+Developer;Problem+solver;Fast+learner;" alt="Typing SVG" /></a>
+<h1 align="center">Hemanth Karthikeya.</h1>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
-<img align="right" alt="GIF" src="code.gif" width="350" height="224" />
+<img align="center" alt="GIF" src="code.gif" width="350" height="224" />
 
-A 3rd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
+<!--A 3rd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
 
 - 🔭 Upskilling
 - 💻 Linux enthusiast(Currently trying Deepin' and ZorinOS)
 - 🌱 I’m currently learning **Svelte,Flutter and Tailwind CSS**
 - 👨‍💻 All of my projects are available at [https://github.com/HemanthK-12](https://github.com/HemanthK-12)
-- 📫 Email me at **hemanthkarthikeya12@gmail.com**
+- 📫 Email me at **hemanthkarthikeya12@gmail.com**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
