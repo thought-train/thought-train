@@ -1,15 +1,16 @@
-<h1 align="left">Hemanth Karthikeya.</h1>
+<h1 align="center">Hemanth Karthikeya.</h1>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
+<div align="center">
 <img align="center" alt="GIF" src="code.gif" width="350" height="224" />
-
+</div>
 <!--A 3rd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
-
+<!--
 - 🔭 Upskilling
 - 💻 Linux enthusiast(Currently trying Deepin' and ZorinOS)
 - 🌱 I’m currently learning **Svelte,Flutter and Tailwind CSS**
 - 👨‍💻 All of my projects are available at [https://github.com/HemanthK-12](https://github.com/HemanthK-12)
-- 📫 Email me at **hemanthkarthikeya12@gmail.com**-->
+- 📫 Email me at **hemanthkarthikeya12@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
