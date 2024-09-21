@@ -1,7 +1,7 @@
 <h1 align="center">Hemanth Karthikeya.</h1>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
-<img align="middle" alt="GIF" src="code.gif" width="350" height="224" />
+<img align="center" alt="GIF" src="code.gif" width="350" height="224" />
 
 <!--A 3rd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
 
@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/HemanthK-12](https://github.com/HemanthK-12)
 - 📫 Email me at **hemanthkarthikeya12@gmail.com**-->
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hemanth-karthikeya-ganti-7a673a19a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="discordapp.com/users/784290692146135062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
@@ -41,3 +41,4 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saphereye&show_icons=true&locale=en" alt="saphereye" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saphereye&" alt="saphereye" /></p> -->
+-->
