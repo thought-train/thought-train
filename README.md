@@ -1,7 +1,7 @@
 <h1 align="center">Hemanth Karthikeya.</h1>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
-<img align="center" alt="GIF" src="code.gif" width="350" height="224" />
+<img align="middle" alt="GIF" src="code.gif" width="350" height="224" />
 
 <!--A 3rd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
 
