@@ -1,6 +1,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
 <div align="center">
-<img align="center" alt="GIF" src="code.gif" width="350" height="224" />
+<!-- <img align="center" alt="GIF" src="code.gif" width="350" height="224" /> -->
+<img align="center" alt="GIF" src="record-2026-07-19_18-55-43.gif"/>
 </div>
 <!--A 3rd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
 <!--
